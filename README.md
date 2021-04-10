@@ -9,4 +9,7 @@ Alpha version. Do not use yet.
   - Wrong key
   - Double letter
   - Letter omission
-- Legitimate RNG 
+- Legitimate RNG
+- Typo coordination
+- Unit tests
+- Build package and ship to pypi
