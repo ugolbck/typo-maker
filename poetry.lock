@@ -1,0 +1,19 @@
+[[package]]
+name = "aenum"
+version = "3.0.0"
+description = "Advanced Enumerations (compatible with Python's stdlib Enum), NamedTuples, and NamedConstants"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "9e4d4747fb39170e39f02c0cb0bba45c47406d61362d846b64693640be5b9b64"
+
+[metadata.files]
+aenum = [
+    {file = "aenum-3.0.0-py2-none-any.whl", hash = "sha256:701c4fecd4c5237ed5ab80a18930a0ebe26a8c729a21e1b7302197a3f430da7c"},
+    {file = "aenum-3.0.0-py3-none-any.whl", hash = "sha256:58b899111b3fa9f9569e30c6305b07308f5b0dfdbbd2a9b9f01e8e08def7fdbb"},
+    {file = "aenum-3.0.0.tar.gz", hash = "sha256:17cd8cfed1ee4b617198c9fabbabd70ebd8f01e54ac29cd6c3a92df14bd86656"},
+]
